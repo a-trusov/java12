@@ -6,7 +6,7 @@ import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class StreamIntermidiateOperators {
+public class IntermidiateOperators {
 
     //    filter​(Predicate predicate)
 //    Фильтрует стрим, принимая только те элементы, которые удовлетворяют заданному условию.
